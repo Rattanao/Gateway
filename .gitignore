@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.bak-*
+
+# ข้อมูลงานจริงของลูกค้า — ห้ามขึ้น repo สาธารณะ
+input/
+output/
+*.xls
+*.xlsx
+*.pdf
